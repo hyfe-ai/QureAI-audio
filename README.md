@@ -1,2 +1,2 @@
 # QureAI-audio
-Data and code for LUNG paper
+Data and code for AJR paper
