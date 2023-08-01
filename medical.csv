@@ -1,0 +1,147 @@
+Patient ID,Age,Gender,Normal vs. Abnormal Finding,TB / Non - TB (qXR),Year of Birth,Additional qXR Findings,Site ,Mode of Cough Sound Collection
+5132,16,Female,Abnormal,Non-TB,2007,Scoliosis observed.,CMC Purnea,Desktop based
+7993,60,Male,Abnormal,Non-TB,1963,Raised/Tented diaphragm observed.,CMC Purnea,Desktop based
+8148,39,Male,Abnormal,TB Presumptive,1984,Not applicable,CMC Purnea,Desktop based
+8184,19,Female,Normal,Not Applicable,2004,Not applicable,CMC Purnea,Desktop based
+10203,16,Female,Normal,Not Applicable,2007,Not applicable,CMC Purnea,Desktop based
+10360,40,Male,Abnormal,Non-TB,1983,No specific abnormalities detected,CMC Purnea,Desktop based
+10773,40,Female,Normal,Not Applicable,1983,Not applicable,CMC Purnea,Desktop based
+11606,42,Male,Abnormal,TB Presumptive,1981,Not applicable,CMC Purnea,Desktop based
+13237,65,Female,Normal,Not Applicable,1958,Not applicable,CMC Purnea,Desktop based
+13986,45,Male,Abnormal,Non-TB,1978,Opacity observed ,CMC Purnea,Desktop based
+17557,40,Male,Normal,Not Applicable,1983,Not applicable,CMC Purnea,Desktop based
+17815,42,Male,Normal,Not Applicable,1981,Not applicable,CMC Purnea,Desktop based
+17823,50,Male ,Abnormal,Non-TB,1973,Blunting of CP angle ,CMC Purnea,Desktop based
+17869,60,Male,Normal,Not Applicable,1963,Not applicable,CMC Purnea,Desktop based
+18298,22,Female,Normal,Not Applicable,2001,Not applicable,CMC Purnea,Desktop based
+19368,55,Female,Abnormal,Non-TB,1968,Opacity observed,CMC Purnea,Desktop based
+19376,68,Male,Abnormal,Non-TB,1955,Scoliosis observed.,CMC Purnea,Desktop based
+19745,65,Male,Normal,Not Applicable,1958,Not applicable,CMC Purnea,Desktop based
+20044,59,Female,Abnormal,Non-TB,1964,Opacity observed in bilateral mid and lower zones. Pleural Effusion is observed on the right.,CMC Purnea,Desktop based
+20127,45,Male,Abnormal,TB Presumptive,1978,Not applicable,CMC Purnea,Desktop based
+21204,49,Female,Abnormal,Non-TB,1974,Opacity observed in bilateral lower zones and right mid zone,CMC Purnea,Desktop based
+22323,45,Female,Normal,Not Applicable,1978,Not applicable,CMC Purnea,Desktop based
+22417,62,Male,Abnormal,TB Presumptive,1961,Not applicable,CMC Purnea,Desktop based
+22418,55,Female,Abnormal,Non-TB,1968,Opacity observed in left upper zone,CMC Purnea,Desktop based
+22488,48,Female,Normal,Not Applicable,1975,Not applicable,CMC Purnea,Desktop based
+23409,40,Male,Abnormal,Non-TB,1983,Opacity observed ,CMC Purnea,Desktop based
+24535,62,Male,Abnormal,TB Presumptive,1961,Not applicable,CMC Purnea,Desktop based
+25187,58,Male,Abnormal,Non-TB,1965,No specific abnormalities detected,CMC Purnea,Desktop based
+25931,18,Female,Normal,Not Applicable,2005,Not applicable,CMC Purnea,Desktop based
+26713,35,Male,Normal,Not Applicable,1988,Not applicable,CMC Purnea,Desktop based
+27039,30,Male,Normal,Not Applicable,1993,Not applicable,CMC Purnea,Desktop based
+27298,43,Male,Normal,Not Applicable,1980,Not applicable,CMC Purnea,Desktop based
+27864,35,Male,Abnormal,TB Presumptive,1988,Not applicable,CMC Purnea,Desktop based
+29010,35,Male,Normal,Not Applicable,1988,Not applicable,CMC Purnea,Desktop based
+29029,59,Male,Normal,Not Applicable,1964,Not applicable,CMC Purnea,Desktop based
+29328,73,Male,Abnormal,Non-TB,1950,Opacity observed ,CMC Purnea,Desktop based
+30330,20,Female,Normal,Not Applicable,2003,Not applicable,CMC Purnea,Desktop based
+30332,42,Male,Abnormal,TB Presumptive,1981,Not applicable,CMC Purnea,Desktop based
+30430,45,Female,Normal,Not Applicable,1978,Not applicable,CMC Purnea,Desktop based
+30713,42,Female,Abnormal,TB Presumptive,1981,Not applicable,CMC Purnea,Desktop based
+30791,71,Female,Abnormal,TB Presumptive,1952,Not applicable,CMC Purnea,Desktop based
+30796,22,Male,Normal,Not Applicable,2001,Not applicable,CMC Purnea,Desktop based
+30886,60,Male,Normal,Not Applicable,1963,Not applicable,CMC Purnea,Desktop based
+31194,26,Male,Normal,Not Applicable,1997,Not applicable,CMC Purnea,Desktop based
+31591,14,Male,Normal,Not Applicable,2009,Not applicable,CMC Purnea,Desktop based
+31921,50,Female,Normal,Not Applicable,1973,Not applicable,CMC Purnea,Desktop based
+32241,42,Male,Normal,Not Applicable,1981,Not applicable,CMC Purnea,Desktop based
+32245,65,Male,Normal,Not Applicable,1958,Not applicable,CMC Purnea,Desktop based
+32345,45,Male,Abnormal,TB Presumptive,1978,Not applicable,CMC Purnea,Desktop based
+32418,19,Female,Abnormal,TB Presumptive,2004,Not applicable,CMC Purnea,Desktop based
+32544,53,Male,Abnormal,Non-TB,1970,Nodule ,CMC Purnea,Desktop based
+32549,62,Female,Abnormal,Non-TB,1961,No specific abnormalities detected,CMC Purnea,Desktop based
+32716,19,Male,Normal,Not Applicable,2004,Not applicable,CMC Purnea,Desktop based
+32751,76,Male,Normal,Not Applicable,1947,Not applicable,CMC Purnea,Desktop based
+32958,51,Male,Abnormal,Non-TB,1972,Probable Emphysema observed.,CMC Purnea,Desktop based
+32975,62,Male,Normal,Not Applicable,1961,Not applicable,CMC Purnea,Desktop based
+32982,66,Male,Abnormal,Non-TB,1957,Nodule observed in left mid and lower zones,CMC Purnea,Desktop based
+33095,29,Male,Normal,Not Applicable,1994,Not applicable,CMC Purnea,Desktop based
+33128,30,Female,Normal,Not Applicable,1993,Not applicable,CMC Purnea,Desktop based
+33129,70,Female,Abnormal,Non-TB,1953,Nodule,CMC Purnea,Desktop based
+33175,72,Male,Abnormal,TB Presumptive,1951,Not applicable,CMC Purnea,Desktop based
+33268,42,Male,Normal,Not Applicable,1981,Not applicable,CMC Purnea,Desktop based
+33283,55,Male,Normal,Not Applicable,1968,Not applicable,CMC Purnea,Desktop based
+33322,37,Male,Abnormal,Non-TB,1986,Raised/Tented diaphragm ,CMC Purnea,Desktop based
+33325,23,Male,Normal,Not Applicable,2000,Not applicable,CMC Purnea,Desktop based
+33328,35,Male,Abnormal,TB Presumptive,1988,Not applicable,CMC Purnea,Desktop based
+33329,75,Male,Abnormal,TB Presumptive,1948,Not applicable,CMC Purnea,Desktop based
+33330,57,Female,Abnormal,Non-TB,1966,Raised/Tented diaphragm,CMC Purnea,Desktop based
+33332,32,Male,Normal,Not Applicable,1991,Not applicable,CMC Purnea,Desktop based
+33334,40,Female,Normal,Not Applicable,1983,Not applicable,CMC Purnea,Desktop based
+33335,31,Male,Normal,Not Applicable,1992,Not applicable,CMC Purnea,Desktop based
+33336,55,Male,Normal,Not Applicable,1968,Not applicable,CMC Purnea,Desktop based
+33337,48,Female,Normal,Not Applicable,1975,Not applicable,CMC Purnea,Desktop based
+33339,30,Female,Normal,Not Applicable,1993,Not applicable,CMC Purnea,Desktop based
+33340,50,Female,Abnormal,Non-TB,1973,Opacity observed ,CMC Purnea,Desktop based
+33341,38,Female,Normal,Not Applicable,1985,Not applicable,CMC Purnea,Desktop based
+33342,43,Male,Normal,Not Applicable,1980,Not applicable,CMC Purnea,Desktop based
+33348,42,Male,Normal,Not Applicable,1981,Not applicable,CMC Purnea,Desktop based
+33350,66,Male,Normal,Not Applicable,1957,Not applicable,CMC Purnea,Desktop based
+33351,44,Male,Normal,Not Applicable,1979,Not applicable,CMC Purnea,Desktop based
+33358,53,Male,Normal,Not Applicable,1970,Not applicable,CMC Purnea,Desktop based
+33359,55,Male,Normal,Not Applicable,1968,Not applicable,CMC Purnea,Desktop based
+33362,23,Female,Abnormal,TB Presumptive,2000,Not applicable,CMC Purnea,Desktop based
+33363,26,Female,Normal,Not Applicable,1997,Not applicable,CMC Purnea,Desktop based
+33364,32,Female,Normal,Not Applicable,1991,Not applicable,CMC Purnea,Desktop based
+33367,28,Male,Normal,Not Applicable,1995,Not applicable,CMC Purnea,Desktop based
+33369,63,Male,Normal,Not Applicable,1960,Not applicable,CMC Purnea,Desktop based
+33371,35,Male,Normal,Not Applicable,1988,Not applicable,CMC Purnea,Desktop based
+33376,32,Male,Normal,Not Applicable,1991,Not applicable,CMC Purnea,Desktop based
+33377,58,Male,Abnormal,TB Presumptive,1965,Not applicable,CMC Purnea,Desktop based
+33378,38,Male,Normal,Not Applicable,1985,Not applicable,CMC Purnea,Desktop based
+33379,54,Female,Normal,Not Applicable,1969,Not applicable,CMC Purnea,Desktop based
+33380,26,Male,Abnormal,TB Presumptive,1997,Not applicable,CMC Purnea,Desktop based
+33381,45,Male,Normal,Not Applicable,1978,Not applicable,CMC Purnea,Desktop based
+33382,70,Male,Abnormal,TB Presumptive,1953,Not applicable,CMC Purnea,Desktop based
+33383,28,Male,Normal,Not Applicable,1995,Not applicable,CMC Purnea,Desktop based
+33384,44,Male,Abnormal,TB Presumptive,1979,Not applicable,CMC Purnea,Desktop based
+33386,47,Male,Normal,Not Applicable,1976,Not applicable,CMC Purnea,Desktop based
+33391,70,Female,Abnormal,TB Presumptive,1953,Not applicable,CMC Purnea,Desktop based
+33392,29,Female,Normal,Not Applicable,1994,Not applicable,CMC Purnea,Desktop based
+33402,22,Male,Normal,Not Applicable,2001,Not applicable,CMC Purnea,Desktop based
+33403,50,Female,Normal,Not Applicable,1973,Not applicable,CMC Purnea,Desktop based
+33404,58,Male,Normal,Not Applicable,1965,Not applicable,CMC Purnea,Desktop based
+33408,36,Male,Normal,Not Applicable,1987,Not applicable,CMC Purnea,Desktop based
+33409,60,Male,Abnormal,Non-TB,1963,"Opacity observed in right middle and lower zones
+Pleural Effusion is observed on the right.",CMC Purnea,Desktop based
+33546,70,Female,Abnormal,TB Presumptive,1953,Not applicable,CMC Purnea,Desktop based
+33760,20,Female,Normal,Not Applicable,2003,Not applicable,CMC Purnea,Desktop based
+33852,26,Female,Normal,Not Applicable,1997,Not applicable,CMC Purnea,Desktop based
+33860,32,Female,Normal,Not Applicable,1991,Not applicable,CMC Purnea,Desktop based
+33861,27,Female,Abnormal,Non-TB,1996,"Opacity observed in bilateral lower zones
+Blunting of CP angle is observed on the right.",CMC Purnea,Desktop based
+33863,42,Male,Normal,Not Applicable,1981,Not applicable,CMC Purnea,Desktop based
+33864,63,Male,Abnormal,Non-TB,1960,Opacity observed in bilateral lower zones,CMC Purnea,Desktop based
+33865,48,Female,Normal,Not Applicable,1975,Not applicable,CMC Purnea,Desktop based
+33866,36,Female,Normal,Not Applicable,1987,Not applicable,CMC Purnea,Desktop based
+33867,45,Female,Abnormal,Non-TB,1978,Nodule observed in left middle zone,CMC Purnea,Desktop based
+33868,50,Female,Abnormal,Non-TB,1973,Nodule observed in right middle zone,CMC Purnea,Desktop based
+33917,28,Female,Normal,Not Applicable,1995,Not applicable,CMC Purnea,Desktop based
+33929,26,Female,Normal,Not Applicable,1997,Not applicable,CMC Purnea,Desktop based
+33930,17,Female,Normal,Not Applicable,2006,Not applicable,CMC Purnea,Desktop based
+33931,45,Female,Normal,Not Applicable,1978,Not applicable,CMC Purnea,Desktop based
+33932,32,Female,Abnormal,TB Presumptive,1991,Not applicable,CMC Purnea,Desktop based
+33933,51,Male,Normal,Not Applicable,1972,Not applicable,CMC Purnea,Desktop based
+33934,27,Female,Abnormal,TB Presumptive,1996,Not applicable,CMC Purnea,Desktop based
+33935,40,Female,Normal,Not Applicable,1983,Not applicable,CMC Purnea,Desktop based
+33937,33,Female,Abnormal,TB Presumptive,1990,Not applicable,CMC Purnea,Desktop based
+33947,52,Male,Normal,Not Applicable,1971,Not applicable,CMC Purnea,Desktop based
+33978,90,Male,Abnormal,TB Presumptive,1933,Not applicable,CMC Purnea,Desktop based
+34005,18,Female,Normal,Not Applicable,2005,Not applicable,CMC Purnea,Desktop based
+34007,50,Male,Abnormal,Non-TB,1973,Opacity observed in left mid and lower zones,CMC Purnea,Desktop based
+34024,18,Female,Normal,Not Applicable,2005,Not applicable,CMC Purnea,Desktop based
+34025,19,Female,Normal,Not Applicable,2004,Not applicable,CMC Purnea,Desktop based
+34027,21,Female,Abnormal,TB Presumptive,2002,Not applicable,CMC Purnea,Desktop based
+34028,19,Female,Normal,Not Applicable,2004,Not applicable,CMC Purnea,Desktop based
+34030,23,Female,Normal,Not Applicable,2000,Not applicable,CMC Purnea,Desktop based
+34031,19,Female,Normal,Not Applicable,2004,Not applicable,CMC Purnea,Desktop based
+34031,62,Male,Normal,Not Applicable,1961,Not applicable,CMC Purnea,Desktop based
+34032,26,Female,Normal,Not Applicable,1997,Not applicable,CMC Purnea,Desktop based
+34034,20,Female,Normal,Not Applicable,2003,Not applicable,CMC Purnea,Desktop based
+34036,24,Female,Normal,Not Applicable,1999,Not applicable,CMC Purnea,Desktop based
+34037,19,Female,Normal,Not Applicable,2004,Not applicable,CMC Purnea,Desktop based
+34039,21,Female,Normal,Not Applicable,2002,Not applicable,CMC Purnea,Desktop based
+34040,25,Female,Normal,Not Applicable,1998,Not applicable,CMC Purnea,Desktop based
+34041,20,Female,Normal,Not Applicable,2003,Not applicable,CMC Purnea,Desktop based
+34042,21,Female,Normal,Not Applicable,2002,Not applicable,CMC Purnea,Desktop based
